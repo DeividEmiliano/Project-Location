@@ -8,8 +8,6 @@ public class DadosEndereco{
     public String getEndereco(){
         return endereco;
     }
-    public void setEndereco(){
-        this.endereco = endereco;
-    }
+    
 }
 
